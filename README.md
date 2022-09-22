@@ -46,7 +46,7 @@
     <li><a href="#i11">Маякская средняя школа Чарышского РОНО, преподаватель информатики, физики, математики </a></li>
     <li><a href="#i12">Павлодольская средняя школа Моздокского РОНО, преподаватель информатики и вычислительной техники </a></li>
     <li><a href="#i13">Троицкая средняя школа Моздокского РОНО, преподаватель информатики и вычислительной техники </a></li>
-    <li><a href="#i14">Моздокский клуб туристов при Моздокском РК ВЛКСМ, директор, инструктор </a></li>
+    <li><a href="#i14">Моздокский клуб туристов при РК ВЛКСМ, директор, инструктор </a></li>
     <li><a href="#i15">Моздокская станция юных техников, преподаватель фотокружка </a></li>
   </ul>
   <a id=i1><h3>Разработка комплекса программ для трассировки матричного кристалла</h3></a>
@@ -121,7 +121,7 @@
     semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
     diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
     quis gravida massa consequat vel.</p>
-  <a id=i10><h3>Мандатное разграничение доступа в Secret Net Studi </h3></a>
+  <a id=i10><h3>Мандатное разграничение доступа в Secret Net Studio </h3></a>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
     iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
@@ -129,7 +129,7 @@
     semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
     diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
     quis gravida massa consequat vel.</p>
-  <a id=i11><h3>Мандатное разграничение доступа в Secret Net Studi </h3></a>
+  <a id=i11><h3>Маякская средняя школа Чарышского РОНО, преподаватель информатики, физики, математики </h3></a>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
     iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
@@ -137,7 +137,7 @@
     semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
     diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
     quis gravida massa consequat vel.</p>
-  <a id=i12><h3>Мандатное разграничение доступа в Secret Net Studi </h3></a>
+  <a id=i12><h3>Павлодольская средняя школа Моздокского РОНО, преподаватель информатики и вычислительной техники </h3></a>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
     iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
@@ -145,7 +145,7 @@
     semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
     diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
     quis gravida massa consequat vel.</p>
-  <a id=i13><h3>Мандатное разграничение доступа в Secret Net Studi </h3></a>
+  <a id=i13><h3>Троицкая средняя школа Моздокского РОНО, преподаватель информатики и вычислительной техники </h3></a>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
     iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
@@ -153,7 +153,7 @@
     semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
     diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
     quis gravida massa consequat vel.</p>
-  <a id=i14><h3>Мандатное разграничение доступа в Secret Net Studi </h3></a>
+  <a id=i14><h3>Моздокский клуб туристов при РК ВЛКСМ, директор, инструктор </h3></a>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
     iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
@@ -161,7 +161,7 @@
     semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
     diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
     quis gravida massa consequat vel.</p>
-  <a id=i15><h3>Мандатное разграничение доступа в Secret Net Studi </h3></a>
+  <a id=i15><h3>Моздокская станция юных техников, преподаватель фотокружка </h3></a>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
     iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
