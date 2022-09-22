@@ -71,7 +71,7 @@
   <p>Разработка программ для статистической обработки агрометеорологических данных. Нахождение 
     корелляции, построение трендов. Язык Fortran IV, ЕС ЭВМ.</p><hr>
   <a id=i5><h3>Построение грамматики на основе обучающего текста</h3></a>
-  <p>Сентябрь 2016 — май 2020</p>
+  <p>февраль 2022 - </p>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
     iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
@@ -79,17 +79,17 @@
     semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
     diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
     quis gravida massa consequat vel.</p><hr>
-  <a id=i6><h3>Сайт погоды</h3></a>
-  <p>Сентябрь 2016 — май 2020</p>
+  <a id=i6><h3>Сайт погоды на Python/Flask</h3></a>
+  <p>Март 2022 — </p>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
-    iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
+    iaculis vitae egests tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
     arcu. Nullam eget nibh quam, non condimentum nisl. Nulla venenatis est eget lorem aliquet
     semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
     diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
     quis gravida massa consequat vel.</p><hr>
   <a id=i7><h3>Телеграмм-бот для извлечения и передачи курса валюты </h3></a>
-  <p>Сентябрь 2016 — май 2020</p>
+  <p>Интенсив февраль 2022</p>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
     iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
@@ -98,7 +98,7 @@
     diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
     quis gravida massa consequat vel.</p><hr>
   <a id=i8><h3>Прокси-сервер_ИКС </h3></a>
-  <p>Сентябрь 2016 — май 2020</p>
+  <p>Курс повышения квалификации ТГУ "Методы и средства обеспечения информационной безопасности (сетевая)", май - июль 2022</p>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
     iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
@@ -107,7 +107,7 @@
     diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
     quis gravida massa consequat vel.</p><hr>
   <a id=i9><h3>Замкнутая программная среда в Secret Net Studio </h3></a>
-  <p>Сентябрь 2016 — май 2020</p>
+  <p>Курс повышения квалификации ТГУ "Методы и средства обеспечения информационной безопасности (сетевая)", май - июль 2022</p>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
     iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
@@ -116,7 +116,7 @@
     diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
     quis gravida massa consequat vel.</p><hr>
   <a id=i10><h3>Мандатное разграничение доступа в Secret Net Studio </h3></a>
-  <p>Сентябрь 2016 — май 2020</p>
+  <p>Курс повышения квалификации ТГУ "Методы и средства обеспечения информационной безопасности (сетевая)", май - июль 2022</p>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
     iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
     elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
