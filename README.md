@@ -15,7 +15,7 @@
 После военной кафедры НГУ два года служил в армии в звании лейтенанта на Байконуре. Выполнял обязанности помощника начальника штаба части.</p>
 Этапы трудовой деятельности (основные) указаны в портфолио.<br/>
 Когда не было возможности работать по специальности, работал на стройке, кочегаром, массажистом, в общем, зарабатывал на жизнь.
-<p>Всегда старался быть в курсе новых направлений в IT.</p>
+<p>Всегда старался быть в курсе новых направлений в IT.</p><hr>
 <p>Мои увлечения:
 <ul> 
 <li>горы и походы (горный туризм, альпинизм, спелеология);</li>
@@ -25,8 +25,7 @@
 <li>самосовершенствование.</li>
 </ul></p>
 <p>Восемь лет назад мы с женой решили переехать в сельскую местность, поближе к земле. Сейчас держим хозяйство: молочные козы, гуси, утки, пчёлы, всего понемногу.
-Выращиваем сад в суровых условиях горного климата юга Алтайского края.</p>
-<hr>
+Выращиваем сад в суровых условиях горного климата юга Алтайского края.</p><hr>
 <p>Ключевые навыки:</p>
   <p>Python, VBA, HTML/CSS/JS, C/C++, PHP, SQL, PascalABC.NET, Интернет Контроль Сервер, Secret Net Studio, дискретная математика, теоретическая механика, обучение пользователей</p>
 <hr>
@@ -44,6 +43,7 @@
     <li><a href="#i8">Прокси-сервер в ИКС </a></li>
     <li><a href="#i9">Замкнутая программная среда в Secret Net Studio </a></li>
     <li><a href="#i10">Мандатное разграничение доступа в Secret Net Studio </a></li>
+    <li><a href="#i100">Реализация алгоритма RSA на языке Python </a></li>
   </ul>
   <ul><b>Преподавание</b>
     <li><a href="#i11">Маякская средняя школа Чарышского РОНО, преподаватель информатики, физики, математики </a></li>
@@ -75,98 +75,53 @@
     корелляции, построение трендов. Язык Fortran IV, ЕС ЭВМ.</p><hr>
   <a id=i5><h3>Построение грамматики на основе обучающего текста</h3></a>
   <p>февраль 2022 - </p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
-    iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
-    arcu. Nullam eget nibh quam, non condimentum nisl. Nulla venenatis est eget lorem aliquet
-    semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
-    diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
-    quis gravida massa consequat vel.</p><hr>
+  <p>Лабораторная работа на языке Python. На основе вводимого текста строится и оптимизируется КС-грамматика.</p><hr>
   <a id=i6><h3>Сайт погоды на Python/Flask</h3></a>
   <p>Март 2022 — </p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
-    iaculis vitae egests tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
-    arcu. Nullam eget nibh quam, non condimentum nisl. Nulla venenatis est eget lorem aliquet
-    semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
-    diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
-    quis gravida massa consequat vel.</p><hr>
+  <p>Проект из курса обучения языку Python в JetBrain Academy.</p><hr>
   <a id=i7><h3>Телеграмм-бот для извлечения и передачи курса валюты </h3></a>
   <p>Интенсив февраль 2022</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
-    iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
-    arcu. Nullam eget nibh quam, non condimentum nisl. Nulla venenatis est eget lorem aliquet
-    semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
-    diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
-    quis gravida massa consequat vel.</p><hr>
+  <p>На языке Python создан Телеграмм-бот, извлекающий информацию с сайта и передающий клиенту в Телеграмм.</p><hr>
   <a id=i8><h3>Прокси-сервер_ИКС </h3></a>
-  <p>Курс повышения квалификации ТГУ "Методы и средства обеспечения информационной безопасности (сетевая)", май - июль 2022</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
-    iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
-    arcu. Nullam eget nibh quam, non condimentum nisl. Nulla venenatis est eget lorem aliquet
-    semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
-    diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
-    quis gravida massa consequat vel.</p><hr>
+  <p>Курс повышения квалификации ТГУ, май - июль 2022</p>
+  <p>Лабораторная работа в курсе повышения квалификации "Методы и средства обеспечения информационной 
+    безопасности". На Oracle VM в Windows 10 построен прокси-сервер, заданы правила фильтрации информации.</p><hr>
   <a id=i9><h3>Замкнутая программная среда в Secret Net Studio </h3></a>
-  <p>Курс повышения квалификации ТГУ "Методы и средства обеспечения информационной безопасности (сетевая)", май - июль 2022</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
-    iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
-    arcu. Nullam eget nibh quam, non condimentum nisl. Nulla venenatis est eget lorem aliquet
-    semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
-    diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
-    quis gravida massa consequat vel.</p><hr>
+  <p>Курс повышения квалификации ТГУ, май - июль 2022</p>
+  <p>Лабораторная работа в курсе повышения квалификации "Методы и средства обеспечения информационной 
+    безопасности". На Oracle VM в Windows 10 построена замкнутая программная среда.</p><hr>
   <a id=i10><h3>Мандатное разграничение доступа в Secret Net Studio </h3></a>
-  <p>Курс повышения квалификации ТГУ "Методы и средства обеспечения информационной безопасности (сетевая)", май - июль 2022</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
-    iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
-    arcu. Nullam eget nibh quam, non condimentum nisl. Nulla venenatis est eget lorem aliquet
-    semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
-    diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
-    quis gravida massa consequat vel.</p><hr>
+  <p>Курс повышения квалификации ТГУ, май - июль 2022</p>
+  <p>Лабораторная работа в курсе повышения квалификации "Методы и средства обеспечения информационной 
+    безопасности". На Oracle VM в Windows 10 построена система разграничения доступа.</p><hr>
+  <a id=i100><h3>Реализация алгоритма RSA на языке Python </h3></a>
+  <p>Курс повышения квалификации ТГУ, май - июль 2022</p>
+  <p>Выпускная работа в курсе повышения квалификации "Методы и средства обеспечения информационной 
+    безопасности". На языке Python реализован алгоритм асимметричного шифрования RSA. Для получения больших 
+    простых чисел (20 - 30 знаков) использован клиент Wolfram.</p><hr>
   <a id=i11><h3>Маякская средняя школа Чарышского РОНО, преподаватель информатики, физики, математики </h3></a>
   <p>Сентябрь 2016 — май 2020</p>
   <p>Преподавал предметы: информатику, физику, математику.. Сам собрал небольшую локальную сеть - компьютерный класс
     для работы. Внеурочно преподавал робототехнику, сайтостроение, шахматы, гитару.</p><hr>
-  <a id=i12><h3>Павлодольская средняя школа Моздокского РОНО, преподаватель информатики и вычислительной техники </h3></a>
+  <a id=i12><h3>Павлодольская средняя школа, Моздокская СШ №3 Моздокского РОНО, преподаватель информатики и вычислительной техники </h3></a>
   <p>Сентябрь 2016 — май 2020</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
-    iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
-    arcu. Nullam eget nibh quam, non condimentum nisl. Nulla venenatis est eget lorem aliquet
-    semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
-    diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
-    quis gravida massa consequat vel.</p><hr>
+  <p>Установил и наладил в Павлодольской школе компьютерный класс УКНЦ, в школе №3 класс компьютеров "Специалист". 
+    Преподавал информатику и ВТ в двух школах.</p><hr>
   <a id=i13><h3>Троицкая средняя школа Моздокского РОНО, преподаватель информатики и вычислительной техники </h3></a>
   <p>Сентябрь 2016 — май 2020</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
-    iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
-    arcu. Nullam eget nibh quam, non condimentum nisl. Nulla venenatis est eget lorem aliquet
-    semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
-    diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
-    quis gravida massa consequat vel.</p><hr>
+  <p>Установил и наладил в Троицкой школе компьютерный класс "Корвет". Преподавал информатику. После окончания учебного года перешёл в клуб туристов.</p><hr>
   <a id=i14><h3>Моздокский клуб туристов при РК ВЛКСМ, директор, инструктор </h3></a>
   <p>Сентябрь 2016 — май 2020</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
-    iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
-    arcu. Nullam eget nibh quam, non condimentum nisl. Nulla venenatis est eget lorem aliquet
-    semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
-    diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
-    quis gravida massa consequat vel.</p><hr>
+  <p>Создавали клуб горного туризма в Моздоке с нуля. Обратились за помощью в комиссию по работе с молодёжью 
+    Моздокского райкома КПСС. Руководитель комиссии обязал бизнесменов помочь с ремонтом помещения и инвентарём. 
+    Из Орджоникидзе приехал инструктор горного туризма,    провёл обучение. Через месяц уже провели первый выход 
+    в горы. Основными участниками были студенты механико-технологического техникума. Затем заработали на старенький 
+    автобус и стали предлагать на предприятиях через профкомы организацию отдыха в горах для работников предприятия. 
+    Проводили совместно с турклубом Орджоникидзе восхождения на пятитысячники - Казбек, Эльбрус, категорийные спортивные 
+    походы. Зимой ездили кататься на горных лыжах.</p><hr>
   <a id=i15><h3>Моздокская станция юных техников, преподаватель фотокружка </h3></a>
   <p>Сентябрь 2016 — май 2020</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi cursus ligula ut felis
-    iaculis vitae egestas tellus posuere. Lorem ipsum dolor sit amet, consectetur adipiscing
-    elit. Integer quam neque, viverra nec adipiscing eu, vestibulum a augue. Duis id hendrerit
-    arcu. Nullam eget nibh quam, non condimentum nisl. Nulla venenatis est eget lorem aliquet
-    semper. Etiam consequat mollis urna non gravida. Ut rhoncus consectetur vehicula. Donec
-    diam ante, euismod sed luctus bibendum, hendrerit quis erat. Maecenas feugiat euismod sapien,
-    quis gravida massa consequat vel.</p>
+  <p>Обучал съёмке и обработке фотографий. Организовывал выставки работ учеников</p>
 
 </body>
 </html>
