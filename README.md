@@ -7,7 +7,7 @@
 <body>
 
   <img src="main.jpg" alt="" width="226">
-  <a href="sin0nim.github.io/about"><h2>Синицын Юрий Альбертович</h2></a>
+  <a href="sin0nim.github.io/about.html"><h2>Синицын Юрий Альбертович</h2></a>
   <h3>резюме</h3>
 
   <ul>
