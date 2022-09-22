@@ -1,13 +1,12 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <!-- Place favicon.ico in the root directory -->
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="main.css">
 </head>
 
 <body>
 
-  <img src="img/main.jpg" alt="" width="226">
+  <img src="main.jpg" alt="" width="226">
   <h2>Синицын Юрий Альбертович</h2>
   <h3>резюме</h3>
 
