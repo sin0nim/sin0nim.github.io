@@ -1,10 +1,4 @@
-<html>
-<head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="main.css">
-</head>
 
-<body>
 
   <img src="/main.JPG" alt="" width="226">
   <a href="#i0"><h2>Синицын Юрий Альбертович</h2></a>
